@@ -1,5 +1,3 @@
-# DeeplabV3plusRoad_Segmentation
-Created using Google colab
 # DeepLabv3Plus-Pytorch
 
 Pretrained DeepLabv3, DeepLabv3+ for Pascal VOC & Cityscapes.
